@@ -80,7 +80,7 @@ function App() {
 
             <Switch>
                 <Route exact path="/">
-                    This is Home
+                    This is Mohammed home page
                 </Route>
                 <Route exact path="/about">
                     fuck off 
