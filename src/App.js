@@ -80,10 +80,12 @@ function App() {
 
             <Switch>
                 <Route exact path="/">
+
                   whateve nesacfe joi 
                   whateve nesacfe joi 
                   whateve nesacfe joi 
                   whateve nesacfe joi 
+
                 </Route>
                 <Route exact path="/about">
                     whatever
