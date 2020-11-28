@@ -83,7 +83,7 @@ function App() {
                     This is Home
                 </Route>
                 <Route exact path="/about">
-                    This is About
+                    fuck off 
                 </Route>
                 <Route exact path="/login">
                     <LoginForm />
