@@ -80,10 +80,15 @@ function App() {
 
             <Switch>
                 <Route exact path="/">
-                    This is Home
+                  whateve nesacfe joi 
+                  whateve nesacfe joi 
+                  whateve nesacfe joi 
+                  whateve nesacfe joi 
                 </Route>
                 <Route exact path="/about">
-                    fuck is awsome 
+                    whatever
+                    whateve nesacfe joi 
+                    whateve nesacfe joi 
                 </Route>
                 <Route exact path="/login">
                     <LoginForm />
